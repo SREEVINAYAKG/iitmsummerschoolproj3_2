@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: rgb(198, 198, 198);
+}
+.container{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;    
+    margin-top: 150px;
+}
+
+.guessSubmit{
+    padding: 6px;
+    width: 100px;
+    background-color: rgb(234, 199, 0);
+    border-radius:5px ;
+}
+.guessField{
+    padding: 6px;
+    width: 50px;
+    border-radius: 5px;
+    background-color: rgba(250, 233, 137, 0.888);
+    font-weight: bold;
+}
